@@ -10,3 +10,4 @@ https://www.elastic.co/guide/en/elasticsearch/reference/current/search-request-f
 https://www.elastic.co/guide/en/elasticsearch/reference/current/search-uri-request.html
 
 http://docs.splunk.com/Documentation/Splunk/latest/Search/GetstartedwithSearch
+http://docs.splunk.com/Documentation/Splunk/6.6.3/SearchTutorial/WelcometotheSearchTutorial
