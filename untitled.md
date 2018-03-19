@@ -15,3 +15,4 @@ http://docs.splunk.com/Documentation/Splunk/latest/Search/GetstartedwithSearch
 http://docs.splunk.com/Documentation/Splunk/latest/AdvancedDev/CustomVizDevOverview
 http://docs.splunk.com/Documentation/Splunk/latest/SearchReference/Transaction
 http://docs.splunk.com/Documentation/Splunk/latest/Knowledge/Developnamingconventionsforknowledgeobjecttitles
+http://docs.splunk.com/Documentation/Splunk/latest/Knowledge/AboutSplunkregularexpressions
