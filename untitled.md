@@ -16,3 +16,9 @@ http://docs.splunk.com/Documentation/Splunk/latest/AdvancedDev/CustomVizDevOverv
 http://docs.splunk.com/Documentation/Splunk/latest/SearchReference/Transaction
 http://docs.splunk.com/Documentation/Splunk/latest/Knowledge/Developnamingconventionsforknowledgeobjecttitles
 http://docs.splunk.com/Documentation/Splunk/latest/Knowledge/AboutSplunkregularexpressions
+
+# Gantt Charts
+https://plot.ly/python/gantt/
+http://www.clowersresearch.com/main/gantt-charts-in-matplotlib/
+
+https://images.plot.ly/plotly-documentation/images/python_cheat_sheet.pdf
