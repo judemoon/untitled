@@ -16,6 +16,7 @@ http://docs.splunk.com/Documentation/Splunk/latest/AdvancedDev/CustomVizDevOverv
 http://docs.splunk.com/Documentation/Splunk/latest/SearchReference/Transaction
 http://docs.splunk.com/Documentation/Splunk/latest/Knowledge/Developnamingconventionsforknowledgeobjecttitles
 http://docs.splunk.com/Documentation/Splunk/latest/Knowledge/AboutSplunkregularexpressions
+http://docs.splunk.com/Documentation/Splunk/latest/Knowledge/Acceleratedatamodels
 
 # Gantt Charts
 https://plot.ly/python/gantt/
