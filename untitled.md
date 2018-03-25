@@ -23,7 +23,7 @@ http://docs.splunk.com/Documentation/CIM/latest/User/Howtousethesereferencetable
 http://docs.splunk.com/Documentation/CIM/latest/User/Overview
 
 https://quizlet.com/216854360/splunk-fundamentals-and-power-user-certification-flash-cards/
-
+https://docs.google.com/document/d/1CoSeYc3YyiuKpqSNA-dQUGQlFWZNJ_kG6xxaQqhOKMc/edit?usp=sharing
 
 # Gantt Charts
 https://plot.ly/python/gantt/
