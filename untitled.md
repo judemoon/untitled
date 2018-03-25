@@ -17,6 +17,10 @@ http://docs.splunk.com/Documentation/Splunk/latest/SearchReference/Transaction
 http://docs.splunk.com/Documentation/Splunk/latest/Knowledge/Developnamingconventionsforknowledgeobjecttitles
 http://docs.splunk.com/Documentation/Splunk/latest/Knowledge/AboutSplunkregularexpressions
 http://docs.splunk.com/Documentation/Splunk/latest/Knowledge/Acceleratedatamodels
+https://splunkbase.splunk.com/app/1621/
+http://docs.splunk.com/Documentation/CIM/latest/User/Howtousethesereferencetables
+http://docs.splunk.com/Documentation/CIM/latest/User/Overview
+
 
 # Gantt Charts
 https://plot.ly/python/gantt/
