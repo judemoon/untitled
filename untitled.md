@@ -30,3 +30,11 @@ https://plot.ly/python/gantt/
 http://www.clowersresearch.com/main/gantt-charts-in-matplotlib/
 
 https://images.plot.ly/plotly-documentation/images/python_cheat_sheet.pdf
+
+# search analytics
+https://searchengineland.com/3-ways-use-search-query-data-google-search-console-279491
+https://support.google.com/analytics/answer/1032402?hl=en
+https://support.google.com/webmasters/answer/6155685?hl=en
+https://moz.com/blog/how-to-use-search-analytics-in-google-sheets-for-better-seo-insights
+https://www.shivarweb.com/11889/using-search-analytics-effectively/
+http://sethsd.com/research/
